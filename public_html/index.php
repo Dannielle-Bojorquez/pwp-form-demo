@@ -84,11 +84,14 @@
 								</div>
 							</div>
 
+							<!-- Google reCAPTCHA -->
+							<div class="g-recaptcha" data-sitekey="6Lci6i4UAAAAAA93kZBn70u5oNo-23WC-mXCn9st"></div>
+
 							<button class="btn btn-default" type="reset">Reset</button>
 							<button class="btn btn-info" type="submit">Submit</button>
 						</form>
 						<!-- END CONTACT FORM-->
-						<-- Form error/success message area -->
+						<!-- Form error/success message area -->
 						<div id="output-area"></div>
 
 					</div><!-- /.col-sm-6 -->
